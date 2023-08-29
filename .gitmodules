@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "windex"]
 	path = windex
-	url = https://github.com/cran/windex
+	url = https://github.com/kevinarbuckle/windex
